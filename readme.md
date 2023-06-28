@@ -1,4 +1,5 @@
-# MP1
+# Distributed Transaction (ECE428 MP1)
+Group member: Wentao Yao(wentaoy4), Kangyu Zhu(kangyuz2)
 
 ## Outline of Codebase
 
@@ -34,13 +35,3 @@
 - To test with eight nodes, open three terminals, copy and paste each line of the run_scenario2.txt into terminals respectively.
 - After every test, run draw.py to generate the figures in the requirement. Make sure to run with an extra parameter indicating the case index, for example: `python draw.py 2`. The parameter is for naming different plots. 
 - If the test includes only three nodes, make sure that the logs only contains three nodes' txt file. If there are more than eight logs (for example, eight .txt files), delete the rest logs which may be generated from the last test case with eight nodes. Otherwise the draw.py would consider all the data in the logs that contain extra .txt files.
-
-# Name and team member:
-
-Name: Kangyu zhu
-
-netid: kangyuz2
-
-Team member's name: Wentao Yao
-
-netid: wentaoy4
