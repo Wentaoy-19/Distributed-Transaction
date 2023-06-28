@@ -1,0 +1,8 @@
+7
+node1 localhost 9990
+node2 localhost 9991
+node3 localhost 9992
+node4 localhost 9993
+node6 localhost 9995
+node7 localhost 9996
+node8 localhost 9997

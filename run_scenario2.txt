@@ -1,0 +1,8 @@
+python3 -u gentx.py 0.5 | python main_node.py node1 9990 scenario2/config1.txt
+python3 -u gentx.py 0.5 | python main_node.py node2 9991 scenario2/config2.txt
+python3 -u gentx.py 0.5 | python main_node.py node3 9992 scenario2/config3.txt
+python3 -u gentx.py 0.5 | python main_node.py node4 9993 scenario2/config4.txt
+python3 -u gentx.py 0.5 | python main_node.py node5 9994 scenario2/config5.txt
+python3 -u gentx.py 0.5 | python main_node.py node6 9995 scenario2/config6.txt
+python3 -u gentx.py 0.5 | python main_node.py node7 9996 scenario2/config7.txt
+python3 -u gentx.py 0.5 | python main_node.py node8 9997 scenario2/config8.txt
